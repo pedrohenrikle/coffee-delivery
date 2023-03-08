@@ -47,7 +47,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Coffee Delivery é um desafio proposto pela Rocketseat para montar via ReactJS uma aplicação de delivery de café 💡.
 
-- [Visite o projeto online](https://pomodoro-timer-two-sooty.vercel.app/)
+- [Visite o projeto online](https://coffee-delivery-dun.vercel.app/)
 
 ## 🔖 Layout
 
